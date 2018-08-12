@@ -4,6 +4,7 @@ count = 0
 
 
 def even_numbers():
+    """Identify even number"""
     char_digit = str(r)
     num_digit = char_digit[count]
     int_digit = int(num_digit)
